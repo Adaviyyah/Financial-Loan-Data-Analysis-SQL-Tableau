@@ -21,5 +21,7 @@ Project Workflow:
 7. Data Visualization in Tableau. 
    
 Tableau Dashboard : 
-Loan Performance Metrics | Tableau Public
+https://public.tableau.com/app/profile/adaviyyah.kazi/viz/LoanPerformanceMetrics_17468197501610/Dashboard1?publish=yes
+
+
 
